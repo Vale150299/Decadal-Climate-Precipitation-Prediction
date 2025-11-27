@@ -6,4 +6,4 @@ This repository will contain the code, data structure, and analysis workflow for
 
 The project explores:
 - NAO-based post-processing for DJFM decadal predictions
-- Hybrid statistical–dynamical forecasting for the West African Monsoon (JJ
+- Hybrid statistical–dynamical forecasting for the West African Monsoon (JJAS)
