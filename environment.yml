@@ -1,0 +1,19 @@
+name: decadal-pred
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - xarray
+  - netcdf4
+  - dask
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - cartopy
+  - seaborn
+  - jupyterlab
+  - pip
+  - pip:
+      - tensorflow
