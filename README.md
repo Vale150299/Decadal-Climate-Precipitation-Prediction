@@ -41,18 +41,9 @@ A Python environment file will be added to support:
 - matplotlib, cartopy  
 - jupyterlab  
 
----
-## 🛠 Installation
-
-Create the environment:
-
-```bash
-conda env create -f environment.yml
-conda activate decadal-pred
-
-
 ## 👤 Author
 
 **Valerio Ippoliti**  
-Master’s Thesis — University of Bologna  
+Master’s Thesis — University of Bologna
+--- 
 
