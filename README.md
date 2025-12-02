@@ -42,6 +42,14 @@ A Python environment file will be added to support:
 - jupyterlab  
 
 ---
+## 🛠 Installation
+
+Create the environment:
+
+```bash
+conda env create -f environment.yml
+conda activate decadal-pred
+
 
 ## 👤 Author
 
