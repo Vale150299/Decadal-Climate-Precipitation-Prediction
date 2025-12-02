@@ -16,18 +16,25 @@ The project explores and provides two Mode Matching methodologies:
 - Scripts for data preprocessing, drift correction, and diagnostics  
 - Jupyter notebooks for generating the main plots used in the thesis  
 
-decadal-precipitation-prediction/
-│
-├── data/ # raw and processed climate data (not uploaded)
-├── scripts/ # python scripts for processing and analysis
-├── notebooks/ # jupyter notebooks for exploration
-├── models/ # CNN weights and hybrid model outputs
-├── plots/ # figures and visualizations
-├── thesis/ # thesis PDF and related material
-├── docs/ # method descriptions and documentation
-├── environment.yml
-├── LICENSE
-└── README.md
+---
+
+## 🚀 Project Goals
+
+- Improve DJFM decadal predictability via NAO signal correction  
+- Evaluate RPC/RPS and create lagged mega-ensembles  
+- Apply ensemble selection based on dynamical–statistical criteria  
+- Use CNN-CD to diagnose ENSO zonal patterns  
+- Improve JJAS West African Monsoon forecasts using hybrid models  
+
+---
+
+## 🛠 Installation
+
+Create the environment:
+
+```bash
+conda env create -f environment.yml
+conda activate decadal-pred
 
 
 
