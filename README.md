@@ -26,15 +26,6 @@ The project explores and provides two Mode Matching methodologies:
 - Use CNN-CD to diagnose ENSO zonal patterns  
 - Improve JJAS West African Monsoon forecasts using hybrid models  
 
----
-
-## 🛠 Installation
-
-Create the environment:
-
-```bash
-conda env create -f environment.yml
-conda activate decadal-pred
 
 
 
