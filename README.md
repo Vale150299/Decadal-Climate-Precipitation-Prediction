@@ -12,3 +12,24 @@ The project explores and provides two Mode Matching methodologies:
 
 - Boreal Winter (DJFM): NAO matching; selecting members based on their ability to reproduce NAO
 - Boreal Summer (JJAS): ENSO Based Subsampling; selecting members based on their ability to reproduce ENSO
+
+
+---
+
+## 🔧 Environment Setup
+
+A Python environment file will be added to support:
+- xarray, netCDF4  
+- numpy, pandas, scipy  
+- scikit-learn  
+- tensorflow (for CNN pattern model)  
+- matplotlib, cartopy  
+- jupyterlab  
+
+---
+
+## 👤 Author
+
+**Valerio Ippoliti**  
+Master’s Thesis — University of Bologna  
+
