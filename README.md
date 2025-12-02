@@ -47,8 +47,11 @@ A Python environment file will be added to support:
 
 **Valerio Ippoliti**  
 Master’s Thesis in Science of Climate
+
 University of Bologna
+
 2024-2025
+
 --- 
 ---
 📄 License
