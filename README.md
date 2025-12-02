@@ -51,8 +51,9 @@ Master’s Thesis in Science of Climate
 University of Bologna
 
 2024-2025
+
 ---
-📄 License
+## 📄 License
 
 This project is released under the MIT License (see LICENSE file).
 --- 
