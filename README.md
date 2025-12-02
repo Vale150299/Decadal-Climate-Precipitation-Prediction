@@ -39,11 +39,18 @@ A Python environment file will be added to support:
 - scikit-learn  
 - tensorflow (for CNN pattern model)  
 - matplotlib, cartopy  
-- jupyterlab  
+- jupyterlab
+
+---
 
 ## 👤 Author
 
 **Valerio Ippoliti**  
 Master’s Thesis — University of Bologna
+--- 
+---
+📄 License
+
+This project is released under the MIT License (see LICENSE file).
 --- 
 
