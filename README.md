@@ -13,7 +13,7 @@ The project explores and provides two Mode Matching methodologies:
 - Boreal Winter (DJFM): NAO matching; selecting members based on their ability to reproduce NAO
 - Boreal Summer (JJAS): ENSO Based Subsampling; selecting members based on their ability to reproduce ENSO
 - ENSO teleconnection analysis using a CNN-based model
-- Scripts for data preprocessing, drift correction, and diagnostics  
+- Jupyter for data preprocessing, drift correction, and diagnostics  
 - Jupyter notebooks for generating the main plots used in the thesis  
 
 ---
@@ -21,7 +21,7 @@ The project explores and provides two Mode Matching methodologies:
 ## 🚀 Project Goals
 
 - Improve DJFM decadal predictability via NAO signal correction  
-- Evaluate RPC/RPS and create lagged mega-ensembles  
+- Evaluate RPC/RPS and create lagged larger-ensembles  
 - Apply ensemble selection based on dynamical–statistical criteria  
 - Use CNN-CD to diagnose ENSO zonal patterns  
 - Improve JJAS West African Monsoon forecasts using hybrid models  
