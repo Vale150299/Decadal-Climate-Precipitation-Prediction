@@ -14,11 +14,14 @@ The project explores and provides two Mode Matching methodologies:
 - Boreal Summer (JJAS): ENSO Based Subsampling; selecting members based on their ability to reproduce ENSO
 - ENSO teleconnection analysis using a CNN-based model
 - Jupyter for data preprocessing, drift correction, and diagnostics  
-- Jupyter notebooks for generating the main plots used in the thesis  
-
+- Jupyter notebooks for generating the main plots used in the thesis
+   
+##  Data
+- Models NAO Index
+   8-yr boreal winter (December to March) means representing years 2–9 from each    start date
 ---
 
-## 🚀 Project Goals
+##  Project Goals
 
 - Improve DJFM decadal predictability via NAO signal correction  
 - Evaluate RPC/RPS and create lagged larger-ensembles  
@@ -31,7 +34,7 @@ The project explores and provides two Mode Matching methodologies:
 
 ---
 
-## 🔧 Environment Setup
+##  Environment Setup
 
 A Python environment file will be added to support:
 - xarray, netCDF4  
@@ -43,7 +46,7 @@ A Python environment file will be added to support:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Valerio Ippoliti**  
 Master’s Thesis in Science of Climate
@@ -53,7 +56,7 @@ University of Bologna
 2024-2025
 
 ---
-## 📄 License
+##  License
 
 This project is released under the MIT License (see LICENSE file).
 --- 
