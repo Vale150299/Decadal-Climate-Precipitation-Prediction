@@ -46,7 +46,7 @@ Main output file:
 data/models_nao_index/can4_nao_index_results.csv
 ```
 
-👉 This file contains the computed NAO index and anomalies and is used for further analysis and modeling.
+This file contains the computed NAO index and anomalies and is used for further analysis and modeling.
 
 ---
 
